@@ -14,8 +14,8 @@ export class NavComponent implements OnInit {
 
   showNav: boolean = false;
 
-  toggle() {
-    this.showNav = !this.showNav;
+  open() {
+    
   }
 
   classes() {
